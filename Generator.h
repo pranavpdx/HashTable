@@ -1,6 +1,7 @@
 #pragma once
 #include <unordered_map>
-#include "Student.h";
+#include "Student.h"
+#include <vector>
 
 using namespace std;
 class Generator
